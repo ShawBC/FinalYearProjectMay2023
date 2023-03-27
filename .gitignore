@@ -1,0 +1,13 @@
+# Ignore Jupyter Checkpoints
+ipynb_checkpoints/
+
+# Ignore Large TF Datasets
+datasets/
+
+#Ignore Guitar Chord Datasets
+Test/
+Training/
+
+#Ignore Keras Tuning Checkpoints
+VGG16/datasets/
+VGG16/tuning_attempt/
