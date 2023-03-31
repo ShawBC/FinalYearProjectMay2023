@@ -1,5 +1,5 @@
 # Ignore Jupyter Checkpoints
-ipynb_checkpoints/
+.ipynb_checkpoints/
 
 # Ignore Large TF Datasets
 datasets/
@@ -10,4 +10,14 @@ Training/
 
 #Ignore Keras Tuning Checkpoints
 VGG16/datasets/
+
+
+# ignore non project folderz
+Diagrams/
+logs/
+Images/
+Reports/
+datasets/
+test_data/
+dogs_and_cats_yamnet/
 VGG16/tuning_attempt/
